@@ -11,8 +11,8 @@
 name: Compile R4A gigabit Alpha
 
 on:
-  #repository_dispatch:
-  #workflow_dispatch:
+  repository_dispatch:
+  workflow_dispatch:
     #inputs:
       #ssh:
         #description: 'use ssh To connect to actions ??'
